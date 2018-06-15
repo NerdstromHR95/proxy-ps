@@ -1,0 +1,22 @@
+#detailsComponent {
+    position: absolute;
+    margin-left: 820px;
+    margin-top: 97px;
+    display: inline-block;
+}
+
+
+#outfit {
+    margin-top: 700px;
+    }
+
+    
+ #reviews {
+margin-top: 400px;
+} 
+
+#photoview {
+    /* position: static !important; */
+    height: 500px;
+    width: 500px;
+}
