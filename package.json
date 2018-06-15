@@ -1,0 +1,28 @@
+{
+  "name": "proxy-ps",
+  "version": "1.0.0",
+  "description": "proxy server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdstromHR95/proxy-ps.git"
+  },
+  "author": "Patricia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NerdstromHR95/proxy-ps/issues"
+  },
+  "homepage": "https://github.com/NerdstromHR95/proxy-ps#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "proxy-middleware": "^0.15.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^0.18.0"
+  }
+}
